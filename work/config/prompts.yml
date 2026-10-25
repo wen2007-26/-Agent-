@@ -1,0 +1,17 @@
+
+main_prompt_path: prompts/main_prompt.txt
+rag_summarize_prompt_path: prompts/rag_summarize.txt
+report_prompt_path: prompts/report_prompt.txt
+
+report:
+  prompt_path: "prompts/report_prompt.txt"
+  template:
+    platform: "{platform}"
+    issue: "{issue}"
+    user_problem: "{user_problem}"
+    order_id: "{order_id}"
+    shop_name: "{shop_name}"
+    user_account: "{user_account}"
+    user_demand: "{user_demand}"
+    policy_context: "{policy_context}"
+    law_context: "{law_context}"

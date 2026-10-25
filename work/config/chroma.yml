@@ -1,0 +1,16 @@
+collection_name: agent
+persist_directory: chroma_db
+k: 3
+#结果数量
+data_path: data
+#数据文件夹
+md5_hex_store: md5.text
+allow_knowledge_file_type: ["txt"]
+
+chunk_size: 200
+chunk_overlap: 20
+length_function: len
+strip_whitespace: False
+keep_empty_docs: True
+separators: ["\n\n", "\n", ".", "!", "?", "。", "！", "？", " ", ""]
+#文本分割器

@@ -1,0 +1,18 @@
+2026-04-03 18:04:12,286 - agent - INFO - logger_handler.py:56 - 信息日志
+2026-04-03 18:04:12,286 - agent - ERROR - logger_handler.py:57 - 错误日志
+2026-04-03 18:04:12,286 - agent - WARNING - logger_handler.py:58 - 警告日志
+2026-04-03 18:04:12,286 - agent - DEBUG - logger_handler.py:59 - 调试日志
+2026-04-03 18:05:58,228 - agent - WARNING - vector_store.py:91 - [加载知识库]E:\python program\代码\项目开发\data\消费者权益保护法.txt分片后没有有效文本内容，跳过
+2026-04-03 18:06:21,304 - agent - WARNING - vector_store.py:91 - [加载知识库]E:\python program\代码\项目开发\data\消费者权益保护法.txt分片后没有有效文本内容，跳过
+2026-04-03 18:09:08,723 - agent - WARNING - vector_store.py:91 - [加载知识库]E:\python program\代码\项目开发\data\消费者权益保护法.txt分片后没有有效文本内容，跳过
+2026-04-03 18:09:37,555 - agent - WARNING - vector_store.py:91 - [加载知识库]E:\python program\代码\项目开发\data\消费者权益保护法.txt分片后没有有效文本内容，跳过
+2026-04-03 18:11:12,966 - agent - WARNING - vector_store.py:91 - [加载知识库]E:\python program\代码\项目开发\data\消费者权益保护法.txt分片后没有有效文本内容，跳过
+2026-04-03 18:13:40,934 - agent - WARNING - vector_store.py:91 - [加载知识库]E:\python program\代码\项目开发\data\消费者权益保护法.txt分片后没有有效文本内容，跳过
+2026-04-03 18:13:46,526 - agent - WARNING - vector_store.py:91 - [加载知识库]E:\python program\代码\项目开发\data\消费者权益保护法.txt分片后没有有效文本内容，跳过
+2026-04-03 18:15:15,692 - agent - WARNING - vector_store.py:91 - [加载知识库]E:\python program\代码\项目开发\data\消费者权益保护法.txt分片后没有有效文本内容，跳过
+2026-04-03 18:17:52,744 - agent - INFO - vector_store.py:100 - [加载知识库]E:\python program\代码\项目开发\data\消费者权益保护法.txt 内容加载成功
+2026-04-03 19:35:36,420 - agent - INFO - vector_store.py:78 - [加载知识库]E:\python program\代码\项目开发\data\消费者权益保护法.txt内容已经存在知识库内，跳过
+2026-04-03 23:50:28,874 - agent - INFO - logger_handler.py:56 - 信息日志
+2026-04-03 23:50:28,874 - agent - ERROR - logger_handler.py:57 - 错误日志
+2026-04-03 23:50:28,874 - agent - WARNING - logger_handler.py:58 - 警告日志
+2026-04-03 23:50:28,874 - agent - DEBUG - logger_handler.py:59 - 调试日志

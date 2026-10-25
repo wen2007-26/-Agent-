@@ -1,0 +1,2 @@
+chat_model_name: qwen3-max      #如果响应速度太慢可以换成qwen-turbo模型
+embedding_model_name: text-embedding-v4

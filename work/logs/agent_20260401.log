@@ -1,0 +1,3 @@
+2026-04-01 16:06:06,353 - agent - ERROR - prompt_loader.py:44 - [load_report_prompts]解析报告生成提示词出错，[Errno 2] No such file or directory: 'E:\\python program\\代码\\项目开发\\prompts\\report_prompt.txt'
+2026-04-01 16:06:19,724 - agent - ERROR - prompt_loader.py:44 - [load_report_prompts]解析报告生成提示词出错，[Errno 2] No such file or directory: 'E:\\python program\\代码\\项目开发\\prompts\\report_prompt.txt'
+2026-04-01 17:22:10,528 - agent - ERROR - prompt_loader.py:44 - [load_report_prompts]解析报告生成提示词出错，[Errno 2] No such file or directory: 'E:\\python program\\代码\\项目开发\\prompts\\report_prompt.txt'
